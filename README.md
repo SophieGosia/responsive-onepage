@@ -1,5 +1,5 @@
-11.6 - kanban
-https://codepen.io/sophie_gosia/pen/jKEeOB
+Responsive onepage - my first step into RWD
+https://codepen.io/sophie_gosia/pen/rZBxYw
 
 How to run this project: 
 
