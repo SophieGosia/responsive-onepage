@@ -10,10 +10,9 @@
 </p>
 
 
-<p align="center">How to run this project:
+How to run this project:
 
 $ npm run init-project 
 $ npm run build
 $ npm run watch
 $ npm run test 
-</p>
