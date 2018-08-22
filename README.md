@@ -10,9 +10,11 @@
 </p>
 
 
-How to run this project:
+<p>How to run this project:</p>
 
-$ npm run init-project 
-$ npm run build
-$ npm run watch
-$ npm run test 
+<ul>
+    <li>$ npm run init-project</li> 
+    <li>$ npm run build</li>
+    <li>$ npm run watch</li>
+    <li>$ npm run test</li> 
+</ul>
